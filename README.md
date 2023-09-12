@@ -1,3 +1,3 @@
 # Trilha JS Developer - Pokedex
 
-moificação feita
+Gravando algumas alterações para Projeto Pokedex
